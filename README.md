@@ -1,4 +1,5 @@
 DevelopersHub Internship Tasks
+
 This repository contains the tasks completed as part of my internship at DevelopersHub. Each task focuses on applying data analysis and machine learning techniques using Python to solve real-world problems.
 
 Task 1: Exploring and Visualizing a Simple Dataset
